@@ -1,1 +1,1 @@
-Various School Projects. no need to poke aroound in here.
+Various School Projects. no need to poke around in here.
