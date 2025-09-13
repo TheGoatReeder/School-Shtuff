@@ -1,15 +1,16 @@
-public class PersonalInfoPrinter {
-    public static void main(String[] args) {
-        String firstName = "Austin";
-        String lastName = "Reed";
-        String streetAddress = "10617 CR 494";
-        String city = "Tyler";
-        String zipCode = "75707";
+Start
+    // Declare variables for fictional personal information
+        Set firstName to "Austin"
+        Set lastName to "Reed"
+        Set streetAddress "123 Street Name"
+        Set city to "Tyler"
+        Set zipCode to "75707"
 
-        System.out.println(firstName);
-        System.out.println(lastName);
-        System.out.println(streetAddress);
-        System.out.println(city);
-        System.out.println(zipCode);
-    }
-}
+    // Output each item on a seperate line
+        Print firstName
+        Print lastName
+        Print streetAddress
+        Print city
+        Print zipCode
+
+End            
